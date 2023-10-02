@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Heyyy
+- Currently studying Mechanical Engineering @ AUTh
+- Interested in FEA Simulations for dynamic systems and dynamic systems behavior and control
+- Musician, expressing myself in ***sapounofouskes*** music project 
 <!--
 **vasilepi/vasilepi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
